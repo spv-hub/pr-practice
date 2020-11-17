@@ -14,6 +14,7 @@ Person B should modify content here.
 
 I put some SHIFT_JIS art in here. It may or may not appear correctly in your terminal. It is a cat and that is that.
 
+This is another change. Look forward to it.
 ## Person D:
 
 Person D should modify content here.
